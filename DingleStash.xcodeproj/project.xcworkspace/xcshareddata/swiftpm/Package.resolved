@@ -1,0 +1,15 @@
+{
+  "originHash" : "6c9983fbaefc9eb9bd13dd1f1deb9b3d57dc850c8a88a9a52dabc3737e65b27b",
+  "pins" : [
+    {
+      "identity" : "imageocrui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fatihdurmaz/ImageOCRUI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d97b084385f99244089922ed376f5b61ba9d9dcb"
+      }
+    }
+  ],
+  "version" : 3
+}
