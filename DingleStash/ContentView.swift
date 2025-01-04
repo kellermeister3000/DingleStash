@@ -92,7 +92,7 @@ struct ContentView: View {
             // Tickets tab
             NavigationView {
                 TabContentView(
-                    title: "Tickets",
+                    title: "DingleStache",
                     searchText: $searchText,
                     lotteryType: $lotteryState.selectedLotteryType
                 )
